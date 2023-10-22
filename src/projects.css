@@ -1,0 +1,17 @@
+
+
+/* Define your CSS styles here */
+.project {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+
+.project-link {
+  display: block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: blue;
+}
